@@ -1,0 +1,16 @@
+{
+  "name": "node_express",
+  "version": "1.0.0",
+  "description": "Express Framework Use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Himani Shah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mysql2": "^1.5.1",
+    "sequelize": "^4.22.8"
+  }
+}
